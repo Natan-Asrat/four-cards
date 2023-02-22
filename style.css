@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 5rem 2rem;
+    background-color: rgba(255, 192, 203, 0.1);
+    text-align: center;
+}
+
+span{
+    display: block;
+}
+header > header, .card-title{
+    font-size: 1.5rem;
+}
+.header-title{
+    color: #555;
+}
+.header-second{
+    font-weight: bold;
+}
+header > section{
+    margin: 2rem 0;
+}
+.card-description, .description{
+    color: #777;
+}
