@@ -40,3 +40,16 @@ img{
     margin: 1rem 0;
     align-self: end;
 }
+
+#blue-top{
+    border-top: 5px solid blue;
+}
+#red-top{
+    border-top: 5px solid red;
+}
+#orange-top{
+    border-top: 5px solid orange;
+}
+#blue-black-top{
+    border-top: 5px solid darkblue;
+}
